@@ -1,1 +1,3 @@
-# Snowflake-Lakehouse-Playbook
+# Snowflake Lakehouse Architecture Playbook
+
+This repository contains a bilingual playbook on designing a low-complexity lakehouse architecture with Snowflake as the analytical core. It focuses on system design trade-offs rather than vendor marketing or implementation details: how to structure ingestion, Medallion modeling, near real-time data consumption, governance, operational serving, migration, and FinOps in a way that balances data freshness, simplicity, governance, and total cost of ownership. The Chinese and English versions are maintained in separate folders for easier reading and future refinement.
